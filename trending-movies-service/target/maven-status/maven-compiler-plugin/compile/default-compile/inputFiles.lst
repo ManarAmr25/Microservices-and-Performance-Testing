@@ -1,0 +1,5 @@
+/home/hadoopuser/spring-boot-microservices/trending-movies-service/src/main/java/com/example/ratingsservice/models/Rating.java
+/home/hadoopuser/spring-boot-microservices/trending-movies-service/src/main/java/com/example/ratingsservice/models/UserRating.java
+/home/hadoopuser/spring-boot-microservices/trending-movies-service/src/main/java/com/example/ratingsservice/RatingsDataServiceApplication.java
+/home/hadoopuser/spring-boot-microservices/trending-movies-service/src/main/java/com/example/ratingsservice/resources/DbAccess.java
+/home/hadoopuser/spring-boot-microservices/trending-movies-service/src/main/java/com/example/ratingsservice/resources/RatingsResource.java
